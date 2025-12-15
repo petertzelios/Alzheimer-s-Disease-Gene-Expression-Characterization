@@ -56,3 +56,5 @@ Rather than treating individual cells independently, this notebook aggregates or
 Patient-specific disease characterization
 
 Comparison between cell-level and patient-level signals
+
+**Trained Model Weight ad supplementary data and figures are available in https://drive.google.com/drive/folders/1YNw9oZH7ZOHviUjJHo-nN5fHRzsWqnVv with LionMail only**
